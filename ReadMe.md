@@ -65,3 +65,6 @@
             ImGui.EndChild();
         }
     }
+
+* [ImgUi Class](./Book/ImguiClass.md)
+* [Layouts](./Book/ImguiLayouts.md)
